@@ -1,0 +1,11 @@
+{
+  "countdown": {
+    "startValue": 10,
+    "endValue": 0,
+    "interval": 1000,
+    "unit": "seconds",
+    "displayFormat": "MM:SS",
+    "autoStart": false,
+    "onComplete": "alert('Countdown finished!')"
+  }
+}
